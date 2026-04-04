@@ -31,4 +31,20 @@ for i in range(1,6):
 
 print("sum of 1 to 5: ",sum)
 
+i=0;
+for i in range(5):
+    print(i);
+
+# range() Generates sequence of number
+
+print("========================")
+
+i=0
+while i < 5:
+    print(i)
+    i += 1
+
+
+
+
 
