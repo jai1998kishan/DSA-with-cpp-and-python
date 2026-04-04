@@ -1,4 +1,7 @@
 # function in python
+# A reusable block of code. 
+
+
 
 def sumOfNumber(x,y):
     return x+y;
@@ -17,3 +20,4 @@ result = sumOfNumber(2,4)
 print(result)
 
 print(sumOfNaturalNumber(4))
+
