@@ -18,3 +18,5 @@ s.show()
 # Refers to current object.
 
 
+
+print("hello","jai");

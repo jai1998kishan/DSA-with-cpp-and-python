@@ -1,7 +1,7 @@
 # function in python
 # A reusable block of code. 
 
-
+# function is a reusable block of code that can be called, or invoked, to run its code, and arguments can be passed to it.
 
 def sumOfNumber(x,y):
     return x+y;
